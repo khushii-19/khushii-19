@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **advanced DSA**
 
-- 📫 How to reach me **khushi.wog19@gmail.com**
+- 📫 How to reach me **kkhushiiarca@gmail.com**
 
 - ⚡ Fun fact :**Trust the process**
 
