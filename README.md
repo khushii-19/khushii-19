@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 <h3 align="center">A developer from India</h3>
 
-- 🌱 I’m currently learning **Java(DSA), MERN stack**
+- 🌱 I’m currently learning **Python, AIML**
 
-- 👯 I’m looking to collaborate on **frontend web development projects**
+- 👯 I’m looking to collaborate on **AIML projects**
 
-- 🤝 I’m looking for help with **advanced DSA**
+- 🤝 I’m looking for help with **Advanced DSA and ML Projects**
 
 - 📫 How to reach me **kkhushiiarca@gmail.com**
 
