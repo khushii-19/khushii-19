@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
-<h3 align="center">A developer from India</h3>
+<h3 align="center">🎓 B.Tech CSE (AI) | Full Stack AI Developer | Automation Enthusiast</h3>
 
 ---
 
@@ -7,15 +7,10 @@
 Passionate about **automation and innovation**, I am driven to create **meaningful solutions** with technology.  
 I embrace challenges as opportunities while staying committed to **excellence and impact**.  
 
----
-
-## 🛠️ Technical Skills  
-
-**Languages:** Python, Java, HTML, CSS, JavaScript  
-**Frameworks:** Flask, FastAPI  
-**Libraries:** NumPy, Pandas, Matplotlib, OpenCV, Mediapipe, Scikit-learn  
-**Databases:** MySQL, Firebase  
-**Dev Tools:** GitHub, GCP, VS Code, IntelliJ  
+🔭 Currently working on: End to End AI-powered applications
+🌱 Learning: Advanced ML and Generative AI
+💬 Ask me about: Python, Flask, Automation, and Data Analysis  
+📫 How to reach me: kkhushiiarca@gmail.com  
 
 ---
 <h3 align="left">Connect with me:</h3>
