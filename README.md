@@ -9,7 +9,7 @@ I embrace challenges as opportunities while staying committed to **excellence an
 
 -🔭 Currently working on: End to End AI-powered applications <br>
 -🌱 Learning: Advanced ML and Generative AI <br>
--💬 Ask me about: Python, Flask, Automation, and Data Analysis <br>
+-💬 Ask me about: Python, Flask, Automation, and Generative AI <br>
 -📫 How to reach me: kkhushiiarca@gmail.com <br>
 -⚡ Fun fact: I love turning “what if” ideas into AI-powered projects. <br>
 
